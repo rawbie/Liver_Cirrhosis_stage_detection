@@ -1,5 +1,4 @@
-## **📁 2. Liver Cirrhosis Stage Prediction – `README.md`**
-```markdown
+📁 2. Liver Cirrhosis Stage Prediction 
 # 🩺 Liver Cirrhosis Stage Prediction
 
 ## 📌 Overview
